@@ -180,9 +180,11 @@ span {
     justify-content: space-between;
     padding-bottom: 96px;
 }
-
-.basketball-img>img {
+.basketball-img {
     width: 48%;
+}
+.basketball-img > img {
+    width: 100%;
 }
 
 .img-caption {
